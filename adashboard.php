@@ -89,7 +89,8 @@ if (!isset($_SESSION['username'])) {
             }
 
         </script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBlahKBhm05kfBUlhRZVOCamNapo4qb1D4&callback=initMap" async defer></script>
+<!--     keyofmap-->
+        <script src="https://maps.googleapis.com/maps/api/js?key=KEYOFMAP&callback=initMap" async defer></script> 
 
     <script src="script.js"></script>
 </body>
